@@ -1,6 +1,6 @@
 ### Welcome to Fethi's Progress Journal
 
-This journal is established for IE 423 course within Boğaziçi University Industrial Engineering Department in Fall 2023 term.
+You can see all assignments done throughtout this course in below.
 My [journal link](https://bu-ie-423.github.io/fall-23-fethikahvecioglu/).
 
 ## My Assignments
